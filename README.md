@@ -1,2 +1,2 @@
-# mynew
-my first github pages repository
+# My-Website
+Created Website while learning web development
